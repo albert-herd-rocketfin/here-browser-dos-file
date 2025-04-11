@@ -1,0 +1,17 @@
+{
+  "applicationSettings": {
+    "rocketfin-demo-platform-provider": {
+      "urls": [
+        "https://rocketfin-demo.is.here.io/platform/api/platform.json",
+      ],
+      "permissions": {
+        "System": {
+          "setDomainSettings": true,
+          "openUrlWithBrowser": {
+            "enabled": true
+          }
+        }
+      }
+    }
+  }
+}
